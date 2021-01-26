@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Openindex",
+    "description": "",
+    "home_page_url": "https://nsavanur18.github.io/openindex",
+    "feed_url": "https://nsavanur18.github.io/openindex/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Neha Savanur"
+    },
+    "items": [
+        {
+            "id": "https://nsavanur18.github.io/openindex/discover-open-source-tools.html",
+            "url": "https://nsavanur18.github.io/openindex/discover-open-source-tools.html",
+            "title": "Discover Open Source Tools",
+            "author": {
+                "name": "Neha Savanur"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-26T17:08:46-06:00",
+            "date_modified": "2021-01-26T17:08:46-06:00"
+        }
+    ]
+}
