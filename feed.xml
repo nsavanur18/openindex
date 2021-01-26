@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Openindex</title>
+    <title>OpenIndex</title>
     <link href="https://nsavanur18.github.io/openindex/feed.xml" rel="self" />
     <link href="https://nsavanur18.github.io/openindex" />
-    <updated>2021-01-26T17:08:46-06:00</updated>
+    <updated>2021-01-26T17:38:41-06:00</updated>
     <author>
         <name>Neha Savanur</name>
     </author>
     <id>https://nsavanur18.github.io/openindex</id>
 
     <entry>
-        <title>Discover Open Source Tools</title>
+        <title>Open Social</title>
         <author>
             <name>Neha Savanur</name>
         </author>
         <link href="https://nsavanur18.github.io/openindex/discover-open-source-tools.html"/>
         <id>https://nsavanur18.github.io/openindex/discover-open-source-tools.html</id>
 
-        <updated>2021-01-26T17:08:46-06:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-01-26T17:38:41-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Open Social https://www.getopensocial.com/ https://github.com/goalgorilla/open_social Drupal GPL-2.0 License
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Open Social</p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://www.getopensocial.com/&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}" data-sheets-hyperlink="https://www.getopensocial.com/"><a class="in-cell-link" href="https://www.getopensocial.com/" target="_blank" rel="noopener">https://www.getopensocial.com/</a></span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/goalgorilla/open_social&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}" data-sheets-hyperlink="https://github.com/goalgorilla/open_social"><a class="in-cell-link" href="https://github.com/goalgorilla/open_social" target="_blank" rel="noopener">https://github.com/goalgorilla/open_social</a></span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Drupal&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">Drupal</span></p>
+<p><a href="https://github.com/goalgorilla/open_social/blob/10.0.x/LICENSE.txt" class="muted-link">GPL-2.0 License</a></p>
+            ]]>
+        </content>
     </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Openindex",
+    "title": "OpenIndex",
     "description": "",
     "home_page_url": "https://nsavanur18.github.io/openindex",
     "feed_url": "https://nsavanur18.github.io/openindex/feed.json",
@@ -12,14 +12,16 @@
         {
             "id": "https://nsavanur18.github.io/openindex/discover-open-source-tools.html",
             "url": "https://nsavanur18.github.io/openindex/discover-open-source-tools.html",
-            "title": "Discover Open Source Tools",
+            "title": "Open Social",
+            "summary": "Open Social https://www.getopensocial.com/ https://github.com/goalgorilla/open_social Drupal GPL-2.0 License",
+            "content_html": "<p>Open Social</p>\n<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;https://www.getopensocial.com/&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\" data-sheets-hyperlink=\"https://www.getopensocial.com/\"><a class=\"in-cell-link\" href=\"https://www.getopensocial.com/\" target=\"_blank\" rel=\"noopener\">https://www.getopensocial.com/</a></span></p>\n<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/goalgorilla/open_social&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\" data-sheets-hyperlink=\"https://github.com/goalgorilla/open_social\"><a class=\"in-cell-link\" href=\"https://github.com/goalgorilla/open_social\" target=\"_blank\" rel=\"noopener\">https://github.com/goalgorilla/open_social</a></span></p>\n<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Drupal&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">Drupal</span></p>\n<p><a href=\"https://github.com/goalgorilla/open_social/blob/10.0.x/LICENSE.txt\" class=\"muted-link\">GPL-2.0 License</a></p>",
             "author": {
                 "name": "Neha Savanur"
             },
             "tags": [
             ],
             "date_published": "2021-01-26T17:08:46-06:00",
-            "date_modified": "2021-01-26T17:08:46-06:00"
+            "date_modified": "2021-01-26T17:38:41-06:00"
         }
     ]
 }
