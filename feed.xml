@@ -3,7 +3,7 @@
     <title>OpenIndex</title>
     <link href="https://nsavanur18.github.io/openindex/feed.xml" rel="self" />
     <link href="https://nsavanur18.github.io/openindex" />
-    <updated>2021-01-27T22:48:44-06:00</updated>
+    <updated>2021-01-28T17:49:10-06:00</updated>
     <author>
         <name>Neha Savanur</name>
     </author>
@@ -14,12 +14,12 @@
         <author>
             <name>Neha Savanur</name>
         </author>
-        <link href="https://nsavanur18.github.io/openindex/discover-open-source-tools-2/"/>
-        <id>https://nsavanur18.github.io/openindex/discover-open-source-tools-2/</id>
+        <link href="https://nsavanur18.github.io/openindex/humhub/"/>
+        <id>https://nsavanur18.github.io/openindex/humhub/</id>
             <category term="Social Network"/>
             <category term="Community"/>
 
-        <updated>2021-01-27T22:14:55-06:00</updated>
+        <updated>2021-01-28T17:48:51-06:00</updated>
             <summary>
                 <![CDATA[
                     HumHubAGPL V3
@@ -43,12 +43,12 @@
         <author>
             <name>Neha Savanur</name>
         </author>
-        <link href="https://nsavanur18.github.io/openindex/discover-open-source-tools/"/>
-        <id>https://nsavanur18.github.io/openindex/discover-open-source-tools/</id>
+        <link href="https://nsavanur18.github.io/openindex/opensocial/"/>
+        <id>https://nsavanur18.github.io/openindex/opensocial/</id>
             <category term="Social Network"/>
             <category term="Community"/>
 
-        <updated>2021-01-27T22:48:44-06:00</updated>
+        <updated>2021-01-28T17:49:10-06:00</updated>
             <summary>
                 <![CDATA[
                     Open SocialGPL-2.0 License
