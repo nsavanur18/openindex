@@ -3,12 +3,41 @@
     <title>OpenIndex</title>
     <link href="https://nsavanur18.github.io/openindex/feed.xml" rel="self" />
     <link href="https://nsavanur18.github.io/openindex" />
-    <updated>2021-01-26T17:38:41-06:00</updated>
+    <updated>2021-01-27T22:48:44-06:00</updated>
     <author>
         <name>Neha Savanur</name>
     </author>
     <id>https://nsavanur18.github.io/openindex</id>
 
+    <entry>
+        <title>HumHub</title>
+        <author>
+            <name>Neha Savanur</name>
+        </author>
+        <link href="https://nsavanur18.github.io/openindex/discover-open-source-tools-2.html"/>
+        <id>https://nsavanur18.github.io/openindex/discover-open-source-tools-2.html</id>
+            <category term="Social Network"/>
+            <category term="Community"/>
+
+        <updated>2021-01-27T22:14:55-06:00</updated>
+            <summary>
+                <![CDATA[
+                    HumHubAGPL V3
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div style="display: flex; flex: 1; flex-direction: row; gap: 30px;">
+<div style="height: 50px; width: 100px;"><figure class="post__image"><img loading="lazy"  src="https://nsavanur18.github.io/openindex/media/posts/2/humhub-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nsavanur18.github.io/openindex/media/posts/2/responsive/humhub-2-xs.png 300w ,https://nsavanur18.github.io/openindex/media/posts/2/responsive/humhub-2-sm.png 480w ,https://nsavanur18.github.io/openindex/media/posts/2/responsive/humhub-2-md.png 768w"  alt="" width="50" height="50"></figure></div>
+<div style="display: flex; flex-direction: column; flex: 1; padding-top: 30px;">
+<div><strong><a href="https://www.humhub.org/" target="_blank" rel="noopener noreferrer">HumHub</a></strong></div>
+<div><a href="https://github.com/goalgorilla/open_social/blob/10.0.x/LICENSE.txt" target="_blank" class="muted-link" rel="noopener"></a><a href="https://www.humhub.com/en/licences" target="_blank" rel="noopener noreferrer">AGPL V3</a></div>
+</div>
+<div><a href="https://github.com/humhub/humhub" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://nsavanur18.github.io/openindex/media/posts/2/GitHub-Logo.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nsavanur18.github.io/openindex/media/posts/2/responsive/GitHub-Logo-xs.png 300w ,https://nsavanur18.github.io/openindex/media/posts/2/responsive/GitHub-Logo-sm.png 480w ,https://nsavanur18.github.io/openindex/media/posts/2/responsive/GitHub-Logo-md.png 768w"  alt="" width="80" height="50"></figure></a></div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Open Social</title>
         <author>
@@ -16,20 +45,25 @@
         </author>
         <link href="https://nsavanur18.github.io/openindex/discover-open-source-tools.html"/>
         <id>https://nsavanur18.github.io/openindex/discover-open-source-tools.html</id>
+            <category term="Social Network"/>
+            <category term="Community"/>
 
-        <updated>2021-01-26T17:38:41-06:00</updated>
+        <updated>2021-01-27T22:48:44-06:00</updated>
             <summary>
                 <![CDATA[
-                    Open Social https://www.getopensocial.com/ https://github.com/goalgorilla/open_social Drupal GPL-2.0 License
+                    Open SocialGPL-2.0 License
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Open Social</p>
-<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://www.getopensocial.com/&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}" data-sheets-hyperlink="https://www.getopensocial.com/"><a class="in-cell-link" href="https://www.getopensocial.com/" target="_blank" rel="noopener">https://www.getopensocial.com/</a></span></p>
-<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://github.com/goalgorilla/open_social&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}" data-sheets-hyperlink="https://github.com/goalgorilla/open_social"><a class="in-cell-link" href="https://github.com/goalgorilla/open_social" target="_blank" rel="noopener">https://github.com/goalgorilla/open_social</a></span></p>
-<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Drupal&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">Drupal</span></p>
-<p><a href="https://github.com/goalgorilla/open_social/blob/10.0.x/LICENSE.txt" class="muted-link">GPL-2.0 License</a></p>
+                <div style="display: flex; flex: 1; flex-direction: row; gap: 30px;">
+<div style="height: 50px; width: 100px;"><figure class="post__image"><img loading="lazy"  src="https://nsavanur18.github.io/openindex/media/posts/1/Screen-Shot-2021-01-27-at-6.17.07-PM.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nsavanur18.github.io/openindex/media/posts/1/responsive/Screen-Shot-2021-01-27-at-6.17.07-PM-xs.png 300w ,https://nsavanur18.github.io/openindex/media/posts/1/responsive/Screen-Shot-2021-01-27-at-6.17.07-PM-sm.png 480w ,https://nsavanur18.github.io/openindex/media/posts/1/responsive/Screen-Shot-2021-01-27-at-6.17.07-PM-md.png 768w"  alt="" width="125" height="50"></figure></div>
+<div style="display: flex; flex-direction: column; flex: 1; padding-top: 30px;">
+<div><strong><a href="https://www.getopensocial.com/" target="_blank" rel="noopener noreferrer">Open Social</a></strong></div>
+<div><a href="https://github.com/goalgorilla/open_social/blob/10.0.x/LICENSE.txt" target="_blank" class="muted-link" rel="noopener">GPL-2.0 License</a></div>
+</div>
+<div><a href="https://github.com/goalgorilla/open_social" target="_blank" rel="noopener"><figure class="post__image"><img loading="lazy"  src="https://nsavanur18.github.io/openindex/media/posts/1/GitHub-Logo.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nsavanur18.github.io/openindex/media/posts/1/responsive/GitHub-Logo-xs.png 300w ,https://nsavanur18.github.io/openindex/media/posts/1/responsive/GitHub-Logo-sm.png 480w ,https://nsavanur18.github.io/openindex/media/posts/1/responsive/GitHub-Logo-md.png 768w"  alt="" width="80" height="50"></figure></a></div>
+</div>
             ]]>
         </content>
     </entry>

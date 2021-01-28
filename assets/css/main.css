@@ -1681,6 +1681,7 @@ textarea {
   display: inline-block;
   margin: 0 0 1rem;
   width: 100%;
+  border: 1px solid lightgrey;
 }
 @media all and (min-width: 37.5em) {
   .l-masonry .c-card {
@@ -1699,6 +1700,7 @@ textarea {
   -o-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
   will-change: transform;
+  border: 1px solid lightgrey;
 }
 .c-card--featured {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(var(--color-rgb), 0.2)), color-stop(90%, white));
@@ -1891,7 +1893,7 @@ textarea {
   width: 100%;
 }
 .post__entry {
-  margin-bottom: 2rem;
+  /*margin-bottom: 2rem;*/
 }
 .post__entry > :nth-child(1) {
   margin-top: 0;
